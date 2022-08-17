@@ -16,3 +16,10 @@ last attempt to commit and push before taking a break.
 ## Update 5
 okay for real last time
 
+## Review so far
+it is important to save -- not mentioned in video tutorial
+
+first you need to add, then commit, then push
+
+I will try to do this now.
+
