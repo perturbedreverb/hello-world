@@ -9,3 +9,5 @@ That is all for now!
 ## Update 2
 Now I am taking a tutorial via YouTube on using Visual Studio Code and GitHub!
 This is Fun!
+## Update 3
+okay starting from a bit back again -- trying to commit again
